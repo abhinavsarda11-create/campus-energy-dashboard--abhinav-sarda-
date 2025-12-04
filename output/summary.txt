@@ -1,0 +1,6 @@
+Campus Energy Summary - generated 2025-12-04T02:34:34.222991
+Total campus consumption (kWh): 250153.42
+Highest-consuming building: Hostel A with 89526.63 kWh
+Peak reading: 1429.93 kWh at 2024-01-08 07:00:00 (building: Hostel A)
+
+Weekly and daily trends saved in output/*.csv and dashboard image.
